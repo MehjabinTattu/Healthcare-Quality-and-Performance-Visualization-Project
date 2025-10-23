@@ -1,7 +1,3 @@
-
-## 🏥Hospital Performance Exploration 
-
-```markdown
 # 🏥 Hospital Performance Exploration & Analysis
 
 ## 🧠 Objective
